@@ -1,4 +1,4 @@
-# Rockbuster SQL Analysis Project
+# Rockbuster Stealth SQL Analysis Project
 
 This repository showcases the SQL analysis conducted as part of the Rockbuster Stealth LLC case study. The goal was to derive key business insights using structured queries.
 
