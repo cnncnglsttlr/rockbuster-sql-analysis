@@ -14,8 +14,7 @@ The project was completed as part of the Data Analytics Program at CareerFoundry
 - How do film pricing and genre affect rentals?
 
 ## SQL Queries
-All final SQL queries are provided in a dedicated `.sql` file.  
-Each query is documented with its **Analysis Title** (matching the original Excel workbook) and comments.
+All final SQL queries are provided in a dedicated `.sql` file.
 
 ## Tableau Dashboard
 An interactive dashboard was created to visualize the insights:  
